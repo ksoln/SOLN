@@ -1,4 +1,5 @@
-DISCLAIMER:- GUYS THODHA THODHA KERKE COPY KERNA LIKE DIRECT FRAME KOO COPY MAT KERNA NHI TOH DIRECT PURA APP/PROJECT COPY HOJEGA 
+DISCLAIMER:- Guys Thoda Thoda Kerke Copy Kerna Like Direct Frame Koo Copy Mat Kerna Nhi Toh Direct Pura APP/PROJECT Hojaega
+[Try At Your Own Risk]
 
 PRACTICAL 1 :- Design Foodservice kiosks with navigation.(food ordering app)
 Link:- https://www.figma.com/design/MM4mbhjRT5BADRVMnm8HNr/FoodService?node-id=0-1&t=bbl7jtRsclOwAjOs-1
