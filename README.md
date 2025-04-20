@@ -35,3 +35,7 @@ Link:- https://www.figma.com/design/Uow45xJhmAwLeTKhUEHRwV/Prac-6-7?node-id=0-1&
 PRACTICAL 7:- Design a simple homepage for shopping website using frame,shape,text tools
 
 Link:- https://www.figma.com/design/DMSZr4E50gXews9DKIoPgT/Prac-8?node-id=0-3&t=BvqefvgxyNZDcKmz-0
+
+PRACTICAL 8:- Designing the navigation system for educational platform on various subjects
+
+Link:- https://www.figma.com/design/MgYROqVtkgV6ctAsk6b9rZ/Question-8?node-id=0-1&p=f&t=yeJKDv98ET00Mq66-0
