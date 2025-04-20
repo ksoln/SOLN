@@ -32,3 +32,6 @@ PRACTICAL 6:- Desgn application using Vertical scrolling.(mobile app messages)
 
 Link:- https://www.figma.com/design/Uow45xJhmAwLeTKhUEHRwV/Prac-6-7?node-id=0-1&p=f&t=v4uj7Qp65qhaO6oV-0
 
+PRACTICAL 7:- Design a simple homepage for shopping website using frame,shape,text tools
+
+Link:- https://www.figma.com/design/DMSZr4E50gXews9DKIoPgT/Prac-8?node-id=0-3&t=BvqefvgxyNZDcKmz-0
